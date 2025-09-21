@@ -1,2 +1,2 @@
 # First.repository
-This is my first repository on Git.
+This is my first Git repository .
